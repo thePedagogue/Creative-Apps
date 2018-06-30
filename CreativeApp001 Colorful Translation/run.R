@@ -2,4 +2,4 @@
 library(shiny)
 
 #Run Application
-runUrl("http://acceber.net//ShinyApps//CreativeApp001 Colorful Translation.zip")
+runUrl("http://github.com//thePedagogue//Creative-Apps//CreativeApp001 Colorful Translation.zip")
